@@ -1,0 +1,29 @@
+{
+    "name": "nholdren/marketing-cloud-php-soap",
+    "type": "library",
+    "keywords" : ["exact target", "exacttarget", "sfmc", "salesforce marketing cloud", "MCE", "salesforce", "email", "api" ],
+    "description": "PHP library for interacting with the Salesforce Marketing Cloud SOAP API",
+    "license": "MIT",
+    "homepage": "https://github.com/nholdren/marketing-cloud-php-soap",
+    "authors": [
+        {
+            "name": "Nick Holdren",
+            "email": "nholdren@listengage.com"
+        }
+    ],
+    "require": {
+        "php" : ">=5.3.3"
+    },
+    "extra": {
+    },
+    "autoload": {
+        "psr-4": {
+            "ExactTarget\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "ExactTarget\\": "src/"
+        }
+    }
+}
