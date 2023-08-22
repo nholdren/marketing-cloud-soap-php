@@ -1,6 +1,3 @@
-SFMC-PHP-SOAP  
-========
-
 # Overview
 
 This package is an updated version of the classic PHP helper library developed for the ExactTarget SOAP API. Updates include the addition of newer objects that have since been added to the the API and the support for using an OAuth token for authentication. 
